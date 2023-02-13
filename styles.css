@@ -1,0 +1,181 @@
+#navBarArea {
+    background-color:#A7EBE2;
+    padding: 20px;
+    border: solid 3px black;
+}
+
+.navBarElement {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80vw;
+}
+
+a {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: none;
+    color: #E43D4C;
+    font-size: 25px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:black;
+}
+
+body {
+    background-color: #FFD6D8;
+}
+
+.pageOneHeading {
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    font-family: sans-serif;
+    color: #FF828C;
+    text-shadow: black 1px 5px;
+}
+
+.menuText {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: black;
+    padding-bottom: 3em;
+}
+
+.titlePageOne {
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.americanDream {
+    display: block;
+    margin: auto;
+    padding-bottom: 5em;
+}
+
+/* PAGE 2!!! */
+
+form {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+legend {
+    border: solid 3px black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 5px;
+    color: #E43D4C;
+    background-color: #A7EBE2;
+}
+
+fieldset {
+    border: solid 3px black;
+    padding-right: 100px;
+    padding-left: 100px;
+    background-color: #FF828C;
+}
+
+.formElement {
+    padding-bottom: 20px;
+    padding-top: 2px;
+}
+
+input {
+   display: flex;
+   justify-content: center;
+   padding-right: 20px;
+   background-color: #A7EBE2;
+}
+
+label {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+textarea {
+    display:flex;
+    justify-content: center;
+    width: 500px;
+    height: 100px;
+    background-color: #A7EBE2;
+}
+
+button {
+    background-color: #A7EBE2;
+    font-weight: bolder;
+}
+
+.beastBurger {
+    display: block;
+    margin: auto;
+    padding-top: 150px;
+    border-bottom: solid 2px black;
+    padding-bottom: 3px;
+}
+
+/* PAGE 3!!! */
+
+
+.socialsBanner {
+    font-size: 60px;
+    font-family: sans-serif;
+    color: #FF828C;
+    text-shadow: black 1px 5px;
+}
+
+.burgerMan {
+    display: flex;
+    margin: 10vw;
+}
+
+/* PAGE 4!!! */
+
+.menuBanner {
+    font-size: 60px;
+    font-family: sans-serif;
+    color: #FF828C;
+    text-shadow: black 1px 5px;
+    display: flex;
+    justify-content: center;
+}
+
+#menuArea {
+    padding-top: 50px;
+}
+
+.containerOne {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.containerTwo {
+    display: flex;
+    justify-content: center;
+}
+
+.menuItems {
+    width: 200px;
+    height: 200px;
+    border: solid 1px black;
+}
+
+.itemName {
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #FF828C;
+    text-shadow: black 1px 2px;
+}
+
+.fryContainer {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
